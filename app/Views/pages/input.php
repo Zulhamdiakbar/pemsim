@@ -73,12 +73,12 @@
 
 
                         <div class="d-flex justify-content-between align-items-center container__create">
-                            <h3 for="x">Faktor Penyebab (X)</h3>
+                            <h3 for="x">Tahun (X)</h3>
                             <input class="form-select form-control" name="x" type="input" id="x">
 
                         </div>
                         <div class="d-flex justify-content-between align-items-center container__create">
-                            <h3 for="y">Faktor Akibat (Y)</h3>
+                            <h3 for="y">Mahasiswa Dulu (Y)</h3>
                             <input class="form-control " name="y" type="input" id="y">
 
                         </div>
